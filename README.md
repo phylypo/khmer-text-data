@@ -11,6 +11,7 @@ Corpus so far contains:
 
 Some of the Khmer news articles can be found here:
 https://github.com/phylypo/segmentation-crf-khmer/tree/master/data
+This repo has 2 set of 1000 articles segmented using CRF from https://niptict.edu.kh/khmer-word-segmentation-tool/. See more detail post [here](https://medium.com/@phylypo/segmentation-of-khmer-text-using-conditional-random-fields-3a2d4d73956a).
 
 It also contains some sample code to train BERT from scratch. 
 See this [Python Notebook](https://github.com/phylypo/khmer-text-data/tree/master/bert-pretrain-from-scratch). It contains steps by steps to pretrain BERT on Khmer language.
