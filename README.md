@@ -17,3 +17,4 @@ It also contains some sample code to train BERT from scratch.
 See this [Python Notebook](https://github.com/phylypo/khmer-text-data/tree/master/bert-pretrain-from-scratch). It contains steps by steps to pretrain BERT on Khmer language.
 - use Khmer news articles to pretain BERT using word masking
 - use [classification](https://github.com/phylypo/khmer-text-data/tree/master/classifications) data to test the model with 99% accuracy for 2 classes
+- added a notebook for text summarization using Transformer with code using Trax (2/6/2021)
